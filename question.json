@@ -1,0 +1,142 @@
+[
+    {
+        "question": "Which keyword defines a function in Python?",
+        "choices": [
+            "def",
+            "func",
+            "function",
+            "define"
+        ],
+        "answer": "def"
+    },
+    {
+        "question": "What is the output of 2 ** 3?",
+        "choices": [
+            "6",
+            "8",
+            "9",
+            "5"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which symbol starts a comment in Python?",
+        "choices": [
+            "#",
+            "//",
+            "--",
+            "/*"
+        ],
+        "answer": "#"
+    },
+    {
+        "question": "What does len('Python') return?",
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "4"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "What data type is the result of 5 / 2?",
+        "choices": [
+            "int",
+            "float",
+            "str",
+            "bool"
+        ],
+        "answer": "float"
+    },
+    {
+        "question": "Which loop repeats while a condition is True?",
+        "choices": [
+            "for",
+            "while",
+            "repeat",
+            "loop"
+        ],
+        "answer": "while"
+    },
+    {
+        "question": "What is the file extension of a Python file?",
+        "choices": [
+            ".py",
+            ".pt",
+            ".python",
+            ".pyt"
+        ],
+        "answer": ".py"
+    },
+    {
+        "question": "Which function converts text like '42' into a whole number?",
+        "choices": [
+            "int()",
+            "str()",
+            "float()",
+            "num()"
+        ],
+        "answer": "int()"
+    },
+    {
+        "question": "What does 10 % 3 return?",
+        "choices": [
+            "1",
+            "3",
+            "0",
+            "3.33"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which module is used to generate random numbers?",
+        "choices": [
+            "random",
+            "math",
+            "time",
+            "json"
+        ],
+        "answer": "random"
+    },
+    {
+        "question": "Which statements are used to handle errors?",
+        "choices": [
+            "try / except",
+            "if / else",
+            "for / while",
+            "def / return"
+        ],
+        "answer": "try / except"
+    },
+    {
+        "question": "What is the output of 'Hi' * 3?",
+        "choices": [
+            "HiHiHi",
+            "Hi3",
+            "Hi Hi Hi",
+            "Error"
+        ],
+        "answer": "HiHiHi"
+    },
+    {
+        "question": "Which module reads and writes JSON data?",
+        "choices": [
+            "json",
+            "csv",
+            "os",
+            "sys"
+        ],
+        "answer": "json"
+    },
+    {
+        "question": "What does time.sleep(2) do?",
+        "choices": [
+            "Pauses the program for 2 seconds",
+            "Prints the number 2",
+            "Returns the current time",
+            "Stops the program forever"
+        ],
+        "answer": "Pauses the program for 2 seconds"
+    }
+]
